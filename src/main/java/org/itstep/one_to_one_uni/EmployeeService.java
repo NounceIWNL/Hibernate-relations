@@ -43,7 +43,7 @@ public class EmployeeService {
         return addressRepository.save(address);
     }
 
-    public void deleteAddressById(Long id){
+    public void deleteAddressById(Long id) {
         addressRepository.deleteById(id);
     }
 }
