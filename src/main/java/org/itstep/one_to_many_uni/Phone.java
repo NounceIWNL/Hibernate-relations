@@ -1,7 +1,7 @@
 package org.itstep.one_to_many_uni;
 
 import lombok.Data;
-import org.springframework.data.annotation.Id;
+
 
 import javax.persistence.*;
 
